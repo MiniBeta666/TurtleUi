@@ -1,5 +1,6 @@
 # TurtleUi
-# For Noobs:0
+# By Intrer#0421
+# Documention by MiniBeta666
 
 ## Load Lib
 ```lua
