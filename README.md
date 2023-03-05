@@ -6,6 +6,10 @@
 ```lua
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/miroeramaa/TurtleLib/main/TurtleUiLib.lua"))()
 ```
+## Window
+```lua
+local window = library:Window("Window")
+```
 ## Button
 ```lua
 window:Button("Button name", function()
